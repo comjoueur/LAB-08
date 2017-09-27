@@ -75,4 +75,5 @@ int main(){
   borrar(A,a);
   borrar(B,b);
   borrar(C,a);
+  return 0;
 }
